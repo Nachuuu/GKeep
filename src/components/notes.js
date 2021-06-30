@@ -28,6 +28,12 @@ const notes = [
     title: "Hardware vs. Softwareergrg",
     content:
       "Wergergrghat's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software."
+  },
+  {
+    key: 6,
+    title: "Huehuehuehue",
+    content:
+      "alavergaaaaaaaaaaa compa"
   }
 ];
 
