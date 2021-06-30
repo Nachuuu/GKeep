@@ -33,7 +33,7 @@ const notes = [
     key: 6,
     title: "Huehuehuehue",
     content:
-      "alavergaaaaaaaaaaa compa"
+      "kjghjgh,m,l compa"
   }
 ];
 
